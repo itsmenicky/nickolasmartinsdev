@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Isolated-Java" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Isolated-Python" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isolated-HTML" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Isolated-VSCODE" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="right" alt="Isolated-pic" height="140" style="border-radius:50px;" src="https://64.media.tumblr.com/89da17e7ea1f96616d7a8020aa4f13a2/aaae0e7494f57993-bb/s540x810/76e13b782fb1ee0b299e92c79ba00a93282131f9.gif">
   </div>
   
