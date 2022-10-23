@@ -1,7 +1,7 @@
 ## 👋 Greetings User!! I’m Nickolas Gabriel
 - 👀 I’m interested in improve my skills as a developer 
 - 🌱 I’m currently learning Javascript
-- 🔭 I'm currently working on a cloud storage application using Javascript
+- 🔭 I'm currently working on a file storage and sharing application using Javascript
 
 <div align="center">
   <a href="https://github.com/IsolatedThinker117">
