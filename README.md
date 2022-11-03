@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16C500&center=true&vCenter=true&multiline=true&width=435&lines=Greetings+User!!+I%E2%80%99m+Nickolas+)](https://git.io/typing-svg)
 
-## 👋 Greetings User!! I’m Nickolas Gabriel
 - 👀 I’m interested in improve my skills as a developer 
 - 🌱 I’m currently learning Javascript
 - 🔭 I'm currently working on a file storage and sharing application using Javascript
