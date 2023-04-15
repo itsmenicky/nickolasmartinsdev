@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=16C500FF&background=1536f7&center=true&width=1000&lines=Greetings+Program!!+I%E2%80%99m+Nickolas+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=1536f7&background=black&center=true&width=1000&lines=Greetings+Program!!+I%E2%80%99m+Nickolas+)](https://git.io/typing-svg)
 
 - 👀 I’m interested in improve my skills as a developer 
 - 🌱 I’m currently learning Javascript
