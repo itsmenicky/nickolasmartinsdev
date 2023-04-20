@@ -24,4 +24,4 @@
 
 ---
 ![8kyu in CodeWars](https://www.codewars.com/users/itsmenicky/badges/large)
-[![](https://visitcount.itsvg.in/api?id=itsmenicky&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=itsmenicky&color=green)
