@@ -23,4 +23,5 @@
   </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabrielmeiradev&icon=0&color=0)](https://visitcount.itsvg.in)
+![8kyu in CodeWars](https://www.codewars.com/users/itsmenicky/badges/large)
+[![](https://visitcount.itsvg.in/api?id=itsmenicky&icon=0&color=0)](https://visitcount.itsvg.in)
