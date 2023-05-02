@@ -23,5 +23,4 @@
   </div>
 
 ---
-![8kyu in CodeWars](https://www.codewars.com/users/itsmenicky/badges/large)
 ![](https://komarev.com/ghpvc/?username=itsmenicky&color=blue)
