@@ -12,7 +12,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmenicky&theme=dark&hide_border=false&align=center&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itsmenicky&theme=dark&hide_border=false&align-items=center&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsmenicky&theme=dark&hide_border=false&align=center)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenicky&theme=dark&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=compact)
 
