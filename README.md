@@ -53,11 +53,11 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=pie&hide_border=true&cache_seconds=1800"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&hide_border=true&cache_seconds=1800"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=compact&hide_border=true&cache_seconds=1800"
+       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&hide_border=true&cache_seconds=1800"
        alt="My GitHub top languages stats"
      />
   </picture>
