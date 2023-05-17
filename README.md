@@ -12,11 +12,56 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmenicky&theme=dark&hide_border=false&align-items=center&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsmenicky&theme=dark&hide_border=false&align=center)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenicky&theme=dark&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=default"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&number_format=long&rank_icon=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+       src="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&number_format=long&rank_icon=default"
+       alt="My GitHub stats"
+     />
+  </picture>
+</p>
 
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=itsmenicky&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=qwerty541&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+       src="https://streak-stats.demolab.com/?user=itsmenicky&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       alt="My GitHub streak stats"
+     />
+  </picture>
+</p>
 
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=pie&hide_border=true&cache_seconds=1800"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=compact&hide_border=true&cache_seconds=1800"
+       alt="My GitHub top languages stats"
+     />
+  </picture>
+</p>
 
   
  ![Snake animation](https://github.com/itsmenicky/itsmenicky/blob/output/github-contribution-grid-snake.svg) 
