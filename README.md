@@ -49,7 +49,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=ffffff&hide_border=true&cache_seconds=1800"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800"
       media="(prefers-color-scheme: dark)"
     />
     <source
