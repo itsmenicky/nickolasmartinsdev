@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=1536f7&background=background=E300FF00&center=true&width=1000&lines=Greetings+Program!!+I%E2%80%99m+Nickolas+)](https://git.io/typing-svg)
 
 - 👀 I’m interested in improve my skills as a developer 
-- 🌱 I’m currently learning Javascript
-- 🔭 I'm currently working on a file storage and sharing application using Javascript
+- 🌱 I’m currently learning Javascript and React
+- 🔭 I'm currently working on a file share app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realnickmartins) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickolas-martins-6b0424255) 
