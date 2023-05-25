@@ -3,6 +3,9 @@
 - 👀 I’m interested in improve my skills as a developer 
 - 🌱 I’m currently learning Javascript and React
 - 🔭 I'm currently working on a file share app
+- 👨‍💻 I'm looking for collaborate in projects with my skills
+- 💬 Ask me about Java
+- 📫 How to reach me nick104@outlook.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realnickmartins) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickolas-martins-6b0424255) 
