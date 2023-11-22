@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=1536f7&background=background=E300FF00&center=true&width=1000&lines=Greetings+Program!!+I%E2%80%99m+Nickolas+)](https://git.io/typing-svg)
 
 - 👀 I’m interested in improve my skills as a developer 
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning Java
 - 🔭 I'm currently working on a file share app
 - 👨‍💻 I'm looking for collaborate in projects with my skills
 - 💬 Ask me about Java
