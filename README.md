@@ -68,8 +68,8 @@
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=itsmenicky&repo=EducReports"/>
 </a>
 
-<a href="https://github.com/itsmenicky/SoundWave">
-   <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=itsmenicky&repo=SoundWave"/>
+<a href="https://github.com/itsmenicky/bibliotecaAcademica">
+   <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=itsmenicky&repo=bibliotecaAcademica"/>
 </a>
 
 
