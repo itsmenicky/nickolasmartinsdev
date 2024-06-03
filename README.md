@@ -64,8 +64,8 @@
 
 # 🥇 Top Repositories:
 
-<a href="https://github.com/itsmenicky/VersaShare">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=itsmenicky&repo=VersaShare"/>
+<a href="https://github.com/itsmenicky/EducReports">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=itsmenicky&repo=EducReports"/>
 </a>
 
 <a href="https://github.com/itsmenicky/SoundWave">
