@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in improve my skills as a developer 
 - 🌱 I’m currently learning Java
-- 🔭 I'm currently working on a sales prospecting system
+- 🔭 I'm currently working on some open-source softwares
 - 👨‍💻 I'm looking for collaborate in projects with my skills
 - 💬 Ask me about Java
 - 📫 How to reach me nick104@outlook.com
